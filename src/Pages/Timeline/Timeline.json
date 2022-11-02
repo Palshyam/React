@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "date": "April, 2019 - Today",
+        "Name":"Head Designer & Co-founder",
+        "location": "Alan Klein Design, London"
+    },
+    {
+        "id": 2,
+        "date": "September, 2018 - April, 2019",
+        "Name":"Creative Director & Senior Designer",
+        "location": "Raxuna Poc, New York"
+    },
+    {
+        "id": 3,
+        "date": "October, 2015 - September, 2018",
+        "Name":"Head Designer",
+        "location": "Arimana Co. Ltd, Amsterdam"
+    },
+    {
+        "id": 4,
+        "date": "July, 2012 - October, 2015",
+        "Name":"Senior UX & UI Designer",
+        "location": "Baxdoro Design, London"
+    },
+    {
+        "id": 5,
+        "date": "March, 2010 - July, 2012",
+        "Name":"Junior UX Designer",
+        "location": "Simono Design Group, London"
+    }
+]
